@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+title: Hikari Inc
+email: contacthikariinc@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Shedding light on human potential
+baseurl: "/hikariinc/" # the subpath of your site, e.g. /blog
+url: "https://marlenezw.github.io"
+destination: ./root
+twitter_username: hikariinc
